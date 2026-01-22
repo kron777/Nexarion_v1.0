@@ -1,18 +1,9 @@
-# Model files
 *.gguf
 *.ggml
 *.bin
-
-# Data files
 data/
 *.json
-*.log
-
-# Python
 __pycache__/
 *.pyc
 venv/
-
-# OS
 .DS_Store
-Thumbs.db
