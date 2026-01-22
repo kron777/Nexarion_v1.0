@@ -1,3 +1,4 @@
+from typing import Dict
 """
 Unified Nexarion Enhanced with Growth Tracking
 Implements her own stated improvement goals with tracking and reflection
